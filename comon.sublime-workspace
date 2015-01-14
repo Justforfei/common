@@ -1,0 +1,740 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mod",
+				"mod-test	mod-test"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"d",
+				"default"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"in",
+				"infinite"
+			],
+			[
+				"bsha",
+				"bxsh-ra	box-shadow: ${1:inset }${2:h} ${3:v} ${4:blur} ${5:spread }rgba(${6:0}, ${7:0}, ${8:0}, .${9:5});"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"rotate",
+				"rotateIn"
+			],
+			[
+				"sc",
+				"scale"
+			],
+			[
+				"appear",
+				"appearInUp"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"f",
+				"font"
+			],
+			[
+				"adiar",
+				"animdir-a	animation-direction: alternate;"
+			],
+			[
+				"bg",
+				"bg+	background: ${1:#fff} url(${2}) ${3:0} ${4:0} ${5:no-repeat};"
+			],
+			[
+				"bdrad",
+				"border-radius:   (property)"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"comp",
+				"comp-btn-ico	comp-btn-ico"
+			],
+			[
+				"pos",
+				"pos-s	position: static;"
+			],
+			[
+				"bb",
+				"border-bottom"
+			],
+			[
+				"w",
+				"window"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"v",
+				"v-v	visibility: visible;"
+			],
+			[
+				"font",
+				"font-01"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"m",
+				"middle"
+			],
+			[
+				"tran",
+				"translateY"
+			],
+			[
+				"mod-",
+				"mod-nor	mod-nor"
+			],
+			[
+				"tx",
+				"text-indent"
+			],
+			[
+				"comp-btn",
+				"comp-btn-nor	comp-btn-nor"
+			],
+			[
+				"rea",
+				"no-repeat"
+			],
+			[
+				"comp-bn",
+				"comp-btn-ico	comp-btn-ico"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"req",
+				"requestHandlers"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"reset",
+				"reset-nor	css-rest-nor"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"h",
+				"html	html"
+			],
+			[
+				"comp-t",
+				"comp-title-nor-html	comp-title-nor-html"
+			],
+			[
+				"comp-b",
+				"comp-boxlist-pic	comp-boxlist-pic"
+			],
+			[
+				"comp-box",
+				"comp-boxlist-pic-html	comp-boxlist-pic-html"
+			],
+			[
+				"comp-tit",
+				"comp-title-nor-html	comp-title-nor-html"
+			],
+			[
+				"comp-titl",
+				"comp-title-nor-html	comp-title-nor-html"
+			],
+			[
+				"comp-title",
+				"comp-title-nor	comp-title-nor"
+			],
+			[
+				"comp-title-n",
+				"comp-title-nor-html	comp-title-nor-html"
+			],
+			[
+				"com",
+				"com-boxlist-event	com-boxlist-event"
+			],
+			[
+				"comp-bo",
+				"comp-boxlist	comp-boxlist"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"p",
+				"pointer"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"mr",
+				"mr-a	margin-right: auto;"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 35.0,
+		"selected_items":
+		[
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remover",
+				"Tag: Remove All Attributes From Tags in Document"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"ctag",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"tag",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"cssb",
+				"Run CSScomb"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"clip",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Add Repository"
+			],
+			[
+				"git",
+				"Set Syntax: Git Commit Message"
+			],
+			[
+				"repository",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"ctags -R -f .tags",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/admin/Desktop/common"
+	],
+	"file_history":
+	[
+		"/C/Users/admin/Desktop/common/cool/yao.css",
+		"/C/Users/admin/Desktop/common/cool/compont-plus.css",
+		"/C/Users/admin/Desktop/common/cool/pure.css",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_2_11.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_2_10.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_2_1.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_2_0.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_9.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_8.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_7.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_6.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_5.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_4.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_2.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_17.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_16.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_15.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_14.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_13.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_12.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_11.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_10.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_1_0.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/list_0_0.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_9.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_8.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_7.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_6.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_5.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_4.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_34.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_33.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_32.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_31.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_30.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_3.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_29.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_28.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_27.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_26.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_25.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_24.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_23.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_22.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_21.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_20.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_2.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_19.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_18.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_17.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_16.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_15.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_14.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_13.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_12.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_11.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_10.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/life_1.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/liao.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/index_115.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/index.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/helper.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/google055c947ffacaa00c.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/games.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/exchange.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/desktop.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/cha.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/carinner.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/business.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/bdunion.txt",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/award.html",
+		"/D/工作内容/项目——12.08——快赚官网/web端/exchange.html",
+		"/D/工作内容/项目——12.08——快赚官网/web端/kz_footer.html",
+		"/D/工作内容/项目——12.08——快赚官网/web端/pop.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/css/155.v2.css",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/css/css.css",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/softwares.html",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/css/select.css",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/LiveStyle/LiveStyle.sublime-settings",
+		"//192.168.16.189/部门/设计部/需求设计稿/Y姚浩荣/2014/项目/有钱-无整合版/award.html",
+		"//192.168.16.189/部门/设计部/需求设计稿/Y姚浩荣/2014/项目/有钱-无整合版/css/css.css",
+		"//192.168.16.189/部门/设计部/需求设计稿/Y姚浩荣/2014/项目/有钱-无整合版/exchange.html",
+		"//192.168.16.189/部门/设计部/需求设计稿/Y姚浩荣/2014/12.16——暖冬活动/index.html",
+		"//192.168.16.189/部门/设计部/需求设计稿/Y姚浩荣/2014/项目/有钱-无整合版/pop.html",
+		"//192.168.16.189/部门/设计部/需求设计稿/Y姚浩荣/2014/12.16——暖冬活动/css/style.css",
+		"/D/工作内容/项目——12.08——快赚官网/web端/css/style.css",
+		"//192.168.16.189/部门/设计部/需求设计稿/Y姚浩荣/2014/12.05——影音播放器用户送VIP活动/css/style.css",
+		"//192.168.16.189/部门/设计部/需求设计稿/Y姚浩荣/2014/项目/有钱-无整合版/index.html",
+		"/C/Users/admin/Desktop/off.html",
+		"/E/git/studygit/content/gitNote.md",
+		"//192.168.16.189/部门/设计部/需求设计稿/Y姚浩荣/2014/12.05——影音播放器用户送VIP活动/pop-tips.html",
+		"/E/git/myhover/css/style.css",
+		"/E/软件备份/Tudumo.1.2.0.66/SND.nfo",
+		"//192.168.16.189/部门/设计部/需求设计稿/Y姚浩荣/2014/12.18—— 先爽后付放量到旧版迷你页设计/index.html",
+		"/C/Users/admin/Desktop/css命名的思考.md",
+		"/E/css/you.css",
+		"/E/软件备份/test.css",
+		"/E/css/myfold/try.css",
+		"/E/css/my.css",
+		"/E/my.css",
+		"/E/my",
+		"/D/工作内容/12.18——mini页迅雷7版本/index.html",
+		"/E/git/hover/IconHoverEffects/js/component.js",
+		"//192.168.16.189/部门/设计部/需求设计稿/Y姚浩荣/2014/11.26——红水晶领取资格页面重构/css/style.css",
+		"/C/Users/admin/Desktop/quali(6).css",
+		"/E/cssTEST/wrap.html",
+		"//192.168.16.189/部门/设计部/需求设计稿/Y姚浩荣/2014/11.26——红水晶领取资格页面重构/pop-tips.html",
+		"/C/Users/admin/Desktop/msgbox.js",
+		"/E/git/hover/IconHoverEffects/index.html",
+		"/E/git/hover/IconHoverEffects/inde",
+		"/D/工作内容/项目——12.08——快赚官网/整合155导航版/static_page/js/jquery.min.js",
+		"//192.168.16.189/部门/设计部/需求设计稿/Y姚浩荣/2014/12.02——PPMoney特权合作介绍页面/css/style.css",
+		"//192.168.16.189/部门/设计部/需求设计稿/Y姚浩荣/2014/9.28——网易彩票领取活动页面/css/style.css",
+		"//192.168.16.189/部门/设计部/需求设计稿/Y姚浩荣/2014/12.02——勋章展示/medal-show.html",
+		"/D/工作内容/12.16——暖冬活动/css/style.css",
+		"/D/工作内容/12.16——暖冬活动/index.html",
+		"//192.168.16.189/部门/设计部/需求设计稿/Z赵宣杰/临时文件/雪花/snow.html",
+		"/D/工作内容/12.02——勋章展示/medal-show.html",
+		"/E/cssTEST/absolute-width.html",
+		"//192.168.16.189/部门/设计部/需求设计稿/Y姚浩荣/2014/项目/新建文件夹/css/css.css",
+		"//192.168.16.189/部门/设计部/需求设计稿/Y姚浩荣/2014/项目/新建文件夹/pop.html",
+		"/E/cssTEST/containBlock.html",
+		"/E/cssTEST/pof.html",
+		"//192.168.16.189/部门/设计部/需求设计稿/Y姚浩荣/2014/项目/有钱/css/155.v2.css",
+		"//192.168.16.189/部门/设计部/需求设计稿/Q覃卓堂/2014_say_yeah/155/static_page/index.html",
+		"/D/工作内容/项目——12.08——快赚官网/web端/index.html",
+		"/D/工作内容/项目——12.08——快赚官网/web端/XXXX.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Location",
+			"0.3",
+			"state-error",
+			"state-load",
+			"state",
+			"list-item",
+			".task-sec .list-item li",
+			"87",
+			"v2",
+			"30px",
+			"87",
+			"46",
+			".link-sign",
+			"461",
+			".link-sign",
+			".record-pop .cont-info li",
+			"v0.3",
+			"体现",
+			"cash_comfirm",
+			"jenson",
+			"fare_share",
+			"提现到支付宝",
+			"no_btn-handle",
+			"done",
+			"v0.3",
+			"京东30元购物E卡",
+			"KLUDS308LKJSDF",
+			"京东",
+			"99999",
+			"9999",
+			"99999",
+			"9999",
+			"pop",
+			".subban-cont",
+			"565px",
+			"pic-hline",
+			"vertical-align: -1px;",
+			".pic-hline",
+			".subban",
+			".pic-hline{",
+			"off",
+			"offed",
+			"off",
+			"240",
+			":240",
+			"172",
+			"8px",
+			"ico-tri-t,",
+			".txt-warn{font-size: 18",
+			".cash-pop .txt-warn",
+			"ont-size: 18",
+			"font-size: 8px",
+			" .form-input input",
+			".form_code-input ",
+			"tel",
+			"nput-tel",
+			"confirm_input",
+			".confirm_input-pop  .in",
+			".confirm_input-pop  .input-te",
+			"充值",
+			"item-tips",
+			"item",
+			"div class=\"ite",
+			"请输入要充值的手机号码",
+			"120",
+			"min",
+			".confirm_input-pop .form-input",
+			"input-code",
+			"form-input",
+			"form_code",
+			".confirm_input-pop .cont-detail",
+			".confirm_info-pop .cont-detail",
+			"verify",
+			"confirm_input",
+			"50",
+			"placeholder",
+			"cash_share",
+			"\">@",
+			"cash_comfirm",
+			"confirm",
+			"div",
+			".tips-pic",
+			"tips-pic",
+			"jenson",
+			"确认支付宝账号：",
+			"com（张三）",
+			"张三",
+			"KLUDS308LKJSDF",
+			"兑换成功，购物激活码如下：",
+			"京东30元购物E卡",
+			"手机话费",
+			"10width",
+			"btn-more",
+			"立即前往",
+			"120",
+			"59",
+			"div",
+			"确定",
+			"充值",
+			"200px",
+			"padding",
+			"warn",
+			".confirm_input-pop",
+			".confirm_info-pop",
+			"confirm",
+			"手机话费50元充值需要消耗50元，",
+			"input",
+			"剩余数量：XXXX个",
+			"tips-txt",
+			"info-tips",
+			"info",
+			"Lato",
+			"text-align:",
+			".hi-icon:b",
+			"padding",
+			"box-btn",
+			"fadeInBig",
+			"flash",
+			"85",
+			"layerout",
+			"tri",
+			"box-intro",
+			"128",
+			"12",
+			"<li>",
+			"dt",
+			"68",
+			"dotted"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"0e4a2f",
+			"r0color",
+			"v",
+			"						\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "comon.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\git\\hover\\IconHoverEffects\\myhover.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
